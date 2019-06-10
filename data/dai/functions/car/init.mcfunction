@@ -1,5 +1,4 @@
-
-data merge entity @s {CustomName:"",CustomNameVisible:0b,Small:1b,ArmorItems:[{},{},{},{id:"minecraft:lime_concrete",Count:1b}]}
+data merge entity @s {Small:1b,ArmorItems:[{},{},{},{id:"minecraft:lime_concrete",Count:1b}]}
 
 tag @s remove dai.new
 
